@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Click2Shop
-- 👀 I’m interested in IT development
-- 🌱 I’m currently learning CSS+HTML+PHP+MY SQL
-- 💞️ I’m looking to collaborate on google
-- 📫 How to reach me insta:@call____me_____levi
+# Hi, I'm Amine 👋
 
-<!---
-Click2Shop/Click2Shop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BTS Graduate in Computer Science  
+💻 Python Developer & IT Enthusiast  
+☁️ Passionate about Cloud Computing, Virtualization, and Linux  
+🌐 Interested in Networking, System Administration, and Cybersecurity  
+🚀 Building automation tools and learning new technologies
+
+## Technologies & Tools
+- Python
+- Flask
+- Linux
+- SSH & Networking
+- Virtual Machines (KVM/QEMU)
+- SQLite
+- Git & GitHub
+- HTML, CSS, JavaScript, Java, C#, C
+
+## Current Goals
+- Improve my backend development skills
+- Build cloud and VM management platforms
+- Learn advanced Linux administration
+- Contribute to open-source projects
+
+📫 Feel free to check out my repositories and connect with me!
